@@ -11,11 +11,10 @@ The **Blog App** lets users **create**, **publish**, and **share** their blogs e
 - **Developer APIs:** Provides APIs for content management, including publishing, deletion, and managing private posts.
 
 ## Photos
-![image](https://github.com/user-attachments/assets/0839299c-6ee5-4c33-a85f-2f3be8864aeb)
 ![image](https://github.com/user-attachments/assets/94a02e3e-5fbb-46b3-ae6e-793f2182977b)
-![image](https://github.com/user-attachments/assets/c53aa957-cec8-4804-b6fd-9870f74a1b36)
-![image](https://github.com/user-attachments/assets/0009cc0a-b107-4645-8be2-d0489d65fba9)
+![image](https://github.com/user-attachments/assets/0839299c-6ee5-4c33-a85f-2f3be8864aeb)
 ![image](https://github.com/user-attachments/assets/3383106e-94cf-40fe-a2ca-db1803b6e9f4)
+![image](https://github.com/user-attachments/assets/c53aa957-cec8-4804-b6fd-9870f74a1b36)
 
 
 
